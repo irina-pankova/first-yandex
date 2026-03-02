@@ -21,5 +21,5 @@
 
 ## Артефакты
 - `Zeppelin-1_2MJWXP924.zpln` — ноутбук Zeppelin
-- `Zeppelin-1.ipynb` — экспорт
+- `notebook.md` — читаемый код 
 - `screenshots/` — подтверждение выполнения
